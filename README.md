@@ -2,8 +2,8 @@
 
 In this video, we will do 3 API Testing examples with Open Source technologies:
 
-* Functional API Testing with Karate
-* API Performance Testing with Gatling using Karate Scenarios
+* Functional API Testing with Karate (HERE MAPS API)
+* API Performance Testing with Gatling using Karate Scenarios (TESTRELIC.COM)
 * Web API Security Testing with Owasp ZAP using Local Proxy
 
 Before starting, You can check this webinar doc on https://testingbootcamp.com
@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=wCpu70VYq7Q
 - IntelliJ Plugin - Cucumber for Java
 - IntelliJ Plugin - Scala
 - Here Maps Developer Account with API Key
+
+![image](https://user-images.githubusercontent.com/89974862/161397123-13979430-1564-4bf9-a636-96855734bae8.png)
+
 
 **Functional API Testing with Karate**
 - Run "src/test/java/karateFunctional/HereMapsAPITest.feature" file on IntelliJ.
