@@ -1,4 +1,4 @@
-# S2E4-Karate-Gatling
+# S2E4 - API Automation, Performance and Security Tests with Karate
 
 In this video, we will do 3 API Testing examples with Open Source technologies:
 
